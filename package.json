@@ -1,0 +1,28 @@
+{
+  "name": "whatsapp-clone",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "axios": "^1.6.8",
+    "core-js": "^3.25.3",
+    "moment-timezone": "^0.5.45",
+    "nuxt": "^2.15.8",
+    "uuid": "^9.0.1",
+    "vue": "^2.7.10",
+    "vue-material-design-icons": "^5.3.0",
+    "vue-moment": "^4.1.0",
+    "vue-server-renderer": "^2.7.10",
+    "vue-template-compiler": "^2.7.10"
+  },
+  "devDependencies": {
+    "@nuxtjs/dotenv": "^1.4.2",
+    "@nuxtjs/tailwindcss": "^6.11.4",
+    "postcss": "^8.4.17"
+  }
+}
